@@ -15,3 +15,7 @@ To clean the tweets - (test is optional paramenter to clean test data)
 
 To train and classify the tweets - (test is optional parameter for testing on tweets)  
 `python classify.py test`
+
+## Credits
+- Lei Zhang, Riddhiman Ghosh, Mohamed Dekhil, Meichun Hsu, and Bing Liu. 2011. [_Combining lexicon-based and learning-based methods for twitter sentiment analysis_](http://www.hpl.hp.com/techreports/2011/HPL-2011-89.html)
+- Steven Bird, Ewan Klein, and Edward Loper. 2009. [_Natural Language Processing with Python, O’Reilly Media_](http://shop.oreilly.com/product/9780596516499.do)
